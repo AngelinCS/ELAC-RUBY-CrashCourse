@@ -1,6 +1,7 @@
 # ELAC-RUBY-CrashCourse
 ## CONTENT
-
+1. Goals
+2. Website Vs Web Application?
 
 
 ## THE GOAL
