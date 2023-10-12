@@ -7,5 +7,9 @@ The goal of this crash course is to teach students web development using the Rub
 - You will learn database handling
 - How to deply Ruby On Rails application
 
+
+
+![image](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/6addd90d-6e4d-4a64-a10e-10476b4d81c8)
+
 ## Before we proceed we have to define what a website is.
 
