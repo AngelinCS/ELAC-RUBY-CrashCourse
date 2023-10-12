@@ -13,4 +13,4 @@ The goal of this crash course is to teach students web development using the Rub
 
 ## Before we proceed we have to define what a website is and how it differentiates between a web application.
 
-To begin the development of a web application we must first understand the difference between a web application vs website is. A website is a collection of pages that provide information to the end users, to enter a website one searches it up using the website name or an URL. Websites are separated into two categories; Dynamic Websites and Static Websites. 
+To begin the development of a web application we must first understand the difference between a web application vs website is. A website is a collection of pages that provide information to the end users, to enter a website one searches it up using the website name or an URL. Websites are separated into two categories; *Dynamic Websites* and *Static Websites*. 
