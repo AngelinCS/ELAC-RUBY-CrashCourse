@@ -9,7 +9,7 @@ The goal of this crash course is to teach students web development using the Rub
 
 
 
-![image](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/6addd90d-6e4d-4a64-a10e-10476b4d81c8)
+<img src = "https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/6addd90d-6e4d-4a64-a10e-10476b4d81c8" width = "150" height= "150">
 
 ## Before we proceed we have to define what a website is.
 
