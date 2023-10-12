@@ -25,3 +25,10 @@ To begin the development of a web application we must first understand the diffe
 ***Static Websites***: Static Websites on the other hand are more fixed with its contents, they don’t have the interactivity that Dynamic websites have which also makes them easier to develop and to deploy. Examples of Static Websites are blogs, small business and online portfolios.
 
 **Conclusion**: Now that we have establish the definition of a website we must now ask ourselves what are web applications? Web applications are computer programs that are then access through the the internet, this means that web applications function on a client-server relationship. Web applications are highly customizable, they can do more tasks then typical websites such as creating documents, managing projects and sending emails.
+
+## Installing Ruby 
+
+Before we begin the installation of the Ruby we have to identify what System we are going to be using. At the moment this guide is only for Windows but I'll make sure to add both MacOS and GNU+Linux later on.
+
+
+
