@@ -7,3 +7,4 @@ The goal of this crash course is to teach students web development using the Rub
 - You will learn database handling
 - How to deply Ruby On Rails application
 
+## What is a website?
