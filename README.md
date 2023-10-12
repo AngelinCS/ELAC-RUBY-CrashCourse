@@ -30,8 +30,8 @@ To begin the development of a web application we must first understand the diffe
 
 Now that we establish the difference of websites and web applications, we will now begin a short introduction to web applications using Ruby On Rails. To begin we must do some simple installations for our work environment. Before we begin the installation of the Ruby we have to identify what System we are going to be using. At the moment this guide is only for Windows but I'll make sure to add both MacOS and GNU+Linux later on.
 
-
-
+-Steps-
+1. 
 
 
 
