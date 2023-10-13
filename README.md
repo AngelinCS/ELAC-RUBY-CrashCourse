@@ -43,7 +43,7 @@ Now that we establish the difference of websites and web applications, we will n
 
 
 2. 
-[![SQLite](https://img.youtube.com/vi/watch?v=5ZkC_WE2W6s/maxresdefault.jpg)](https//www.youtube.com/watch?v=5ZkC_WE2W6s)
+[SQLite](https://img.youtube.com/vi/watch?v=5ZkC_WE2W6s/maxresdefault.jpg)(https//www.youtube.com/watch?v=5ZkC_WE2W6s)
   
 
 
