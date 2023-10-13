@@ -44,7 +44,7 @@ Now that we establish the difference of websites and web applications, we will n
 
 2. 
 
-  [<img src="https://https://www.youtube.com/watch?v=5ZkC_WE2W6s/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"/>](https://www.youtube.com/watch?v=5ZkC_WE2W6s/embed/<VIDEO_ID>)
+  [SQLite](https://www.youtube.com/watch?v=5ZkC_WE2W6s/embed/<VIDEO_ID>)
 
 
 
