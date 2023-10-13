@@ -48,8 +48,7 @@ Now that we establish the difference of websites and web applications, we will n
 
 
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=5ZkC_WE2W6s)
-
+[![Watch the video](https://img.youtube.com/vi/watch?v=5ZkC_WE2W6s/https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/7d75bf0b-eb05-4ad9-84e6-dedf9b807818)](https://www.youtube.com/watch?v=5ZkC_WE2W6s)
 
 
 
