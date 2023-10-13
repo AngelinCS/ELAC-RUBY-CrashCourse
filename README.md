@@ -41,8 +41,9 @@ Make sure to download the file that ---> Ruby+Devkit3.2.2-1(64)
 
 ![image](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/a49064d0-4348-49de-b713-a77a77d65707)
 
-3. 
+3. Once you have the download file, go to your downloads and run the Ruby setup page. To use Ruby we must accept the license agreement and then press 'Next'
 
+![image](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/a25835dd-01fe-4d78-b32d-d0512db981b3)
 
 
 
