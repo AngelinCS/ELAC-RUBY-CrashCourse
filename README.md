@@ -36,19 +36,19 @@ Now that we establish the difference of websites and web applications, we will n
     
 ![ruby installer webpage](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/7767b591-9919-4eb5-83f8-a7697b069844)
 
-Once you have the page open we will then go to Download, the download page should look like this:
+2. Once you have the page open we will then go to Download, the download page should look like this:
 Make sure to download the file that ---> Ruby+Devkit3.2.2-1(64)
 
 ![image](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/a49064d0-4348-49de-b713-a77a77d65707)
 
+3. 
 
 
 
-2. 
 
   
 
-
+## Installing SQLite
 
 [![Watch the video](https://img.youtube.com/vi/watch?v=5ZkC_WE2W6s/https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/7d75bf0b-eb05-4ad9-84e6-dedf9b807818)](https://www.youtube.com/watch?v=5ZkC_WE2W6s)
 
