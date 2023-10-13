@@ -34,6 +34,7 @@ Now that we establish the difference of websites and web applications, we will n
 1. First we must go to the [Ruby Installer](https://rubyinstaller.org/)
    The website should look like this :
     
+![ruby installer webpage](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/7767b591-9919-4eb5-83f8-a7697b069844)
 
 
 
