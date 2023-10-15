@@ -3,6 +3,9 @@
 1. Goals
 2. Website Vs Web Application?
 3. Installation of Ruby
+4. Installing SQLite
+5. Installing Rails
+6. Recap
 
 ## THE GOAL
 The goal of this crash course is to teach students web development using the Ruby framework. 
