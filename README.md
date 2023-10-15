@@ -37,7 +37,7 @@ Now that we establish the difference of websites and web applications, we will n
 ![ruby installer webpage](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/7767b591-9919-4eb5-83f8-a7697b069844)
 
 2. Once you have the page open we will then go to Download, the download page should look like this:
-Make sure to download the file that ---> Ruby+Devkit3.2.2-1(64)
+Make sure to download the file that ---> `Ruby+Devkit3.2.2-1(64)`
 
 ![image](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/a49064d0-4348-49de-b713-a77a77d65707)
 
@@ -57,7 +57,7 @@ Make sure to download the file that ---> Ruby+Devkit3.2.2-1(64)
 
 ## Rails Installation 
 
-To install rails we are going to use the command line 
+To install rails we are going to use the command line and input:
 `gem install rails`
 ![image](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/ab86c71d-2af5-4965-8f58-a86c23b9fc67)
 
