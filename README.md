@@ -61,7 +61,7 @@ To install rails we are going to use the command line and input:
 `gem install rails`
 ![image](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/ab86c71d-2af5-4965-8f58-a86c23b9fc67)
 
-Once the system finishes the download, you or might not have this message
+Once the system finishes the download, you or might not have this message. Just install the new version.
 
 ![image](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/9ab842fc-a183-4003-a9c8-331375c017b9)
 
