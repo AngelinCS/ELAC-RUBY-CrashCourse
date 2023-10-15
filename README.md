@@ -78,7 +78,8 @@ This steps is simple we are just going to check if we correctly installed all th
 afterwards we will check for SQLite, to do that we must run 
 3. `rails --version`
 and to conclude we must then check for rails, to do this just run this command 
- To end make sure that your results are similar to mine, 
+
+To end make sure that your results are similar to mine, 
 
 ![image](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/53930aef-24e9-464b-aa9b-037cf5c8cfdd)
 
