@@ -1,4 +1,4 @@
-# ELAC-RUBY-CrashCourse
+![image](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/6ca426ea-f0b6-49c1-9f73-d2889b49c5b0)# ELAC-RUBY-CrashCourse
 ## CONTENT
 1. Goals
 2. Website Vs Web Application?
@@ -70,10 +70,18 @@ If you do get the msg make sure to follow the instructions and install the packa
 ![image](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/7aba4f4c-effd-4feb-9103-6f0826cc0fb6)
 
 
-## Recap, before we proceed lets check 
+## Recap, before we proceed lets check installations
 
+This steps is simple we are just going to check if we correctly installed all the programs needed. To do this we are going to open the command line and enter this command and press enter
+`ruby --version`
+afterwards we will check for SQLite, to do that we must run 
+`sqlite3 --version`
+and to conclude we must then check for rails, to do this just run this command 
+`rails --version`
 
+ To end make sure that your results are similar to mine, 
 
+![image](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/53930aef-24e9-464b-aa9b-037cf5c8cfdd)
 
 
 
