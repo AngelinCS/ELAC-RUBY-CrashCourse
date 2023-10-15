@@ -73,11 +73,11 @@ If you do get the msg make sure to follow the instructions and install the packa
 ## Recap, before we proceed lets check installations
 
 This steps is simple we are just going to check if we correctly installed all the programs needed. To do this we are going to open the command line and enter this command and press enter
-`ruby --version`
+1. `ruby --version`
 afterwards we will check for SQLite, to do that we must run 
-`sqlite3 --version`
+2. `sqlite3 --version`
 and to conclude we must then check for rails, to do this just run this command 
-`rails --version`
+3. `rails --version`
 
  To end make sure that your results are similar to mine, 
 
