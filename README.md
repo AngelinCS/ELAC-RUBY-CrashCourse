@@ -55,9 +55,22 @@ Make sure to download the file that ---> Ruby+Devkit3.2.2-1(64)
 
 
 
+## Rails Installation 
+
+To install rails we are going to use the command line 
+'gem install rails'
+![image](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/ab86c71d-2af5-4965-8f58-a86c23b9fc67)
+
+Once the system finishes the download, you or might not have this message
+
+![image](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/9ab842fc-a183-4003-a9c8-331375c017b9)
+
+If you do get the msg make sure to follow the instructions and install the package. (In my case the computer is making me aware that they'res a update for RubyGems)
+
+![image](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/7aba4f4c-effd-4feb-9103-6f0826cc0fb6)
 
 
-
+## Recap, before we proceed lets check 
 
 
 
