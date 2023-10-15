@@ -58,7 +58,7 @@ Make sure to download the file that ---> Ruby+Devkit3.2.2-1(64)
 ## Rails Installation 
 
 To install rails we are going to use the command line 
-'gem install rails'
+`gem install rails`
 ![image](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/ab86c71d-2af5-4965-8f58-a86c23b9fc67)
 
 Once the system finishes the download, you or might not have this message
