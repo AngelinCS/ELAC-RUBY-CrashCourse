@@ -1,4 +1,4 @@
-![image](https://github.com/AngelinCS/ELAC-RUBY-CrashCourse/assets/59464059/6ca426ea-f0b6-49c1-9f73-d2889b49c5b0)# ELAC-RUBY-CrashCourse
+# ELAC-RUBY-CrashCourse
 ## CONTENT
 1. Goals
 2. Website Vs Web Application?
